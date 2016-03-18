@@ -17,8 +17,8 @@ int main(int argc, const char* argv[])
     //Input Image
     String fileLocation = "/Users/ahmetcanozbek/Desktop/CodePortfolio/LogoDetection/LogoDetection/LogoDetection/BurgerKingScenes/";
     String fileExtension = ".jpg";
-    String fileName1 = "/Users/ahmetcanozbek/Desktop/CodePortfolio/LogoDetection/LogoDetection/Logos/burgerking_logo2.jpg";
-    String fileName2 = "/Users/ahmetcanozbek/Desktop/CodePortfolio/LogoDetection/LogoDetection/BurgerKingScenes/burgerking_scene6.jpg";
+    String fileName1 = "/Users/ahmetcanozbek/Desktop/CodePortfolio/LogoDetection/LogoDetection/Logos/cocacola_logo.jpg";
+    String fileName2 = "/Users/ahmetcanozbek/Desktop/CodePortfolio/LogoDetection/LogoDetection/BurgerKingScenes/burgerking_scene7.jpg";
     Mat objectImg = imread(fileName1);
     Mat sceneImg = imread(fileName2);
     
